@@ -1,0 +1,6 @@
+{
+  "name": "AI HealthGuard — Explainable AI Healthcare Risk Prediction System",
+  "description": "An Explainable AI (XAI) clinical research platform for cardiovascular and metabolic healthcare risk intelligence featuring SHAP attribution, counterfactual sensitivity modeling, and multi-model benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

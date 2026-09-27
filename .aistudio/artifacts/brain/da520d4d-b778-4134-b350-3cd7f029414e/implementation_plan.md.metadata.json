@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for AI HealthGuard, an Explainable AI Healthcare Risk Prediction System for cardiovascular and metabolic diseases. It establishes clinical research standards, eliminates non-standard badges, and provides SHAP waterfall attribution, counterfactual sensitivity simulations, clinical cohort presets, and PDF report generation.",
+  "updatedAt":  "2026-09-27T08:24:18.938175988Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
