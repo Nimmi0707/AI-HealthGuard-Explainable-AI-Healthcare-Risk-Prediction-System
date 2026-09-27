@@ -189,18 +189,6 @@ SRM Institute of Science and Technology
 
 ## 📌 Project Information
 
-| Category | Details |
-|---|---|
-| Project Name | AI HealthGuard |
-| Domain | Healthcare AI |
-| Focus | Explainable AI |
-| Project Type | Academic Research Prototype |
-| Degree | M.Tech CSE |
-| Frontend | React + TypeScript |
-| AI | Google Gemini API |
-| Deployment | Vercel |
-| Source Code | GitHub |
-
 ---
 
 ## 🌐 Project Links
