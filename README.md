@@ -112,7 +112,6 @@ These recommendations are intended only to demonstrate the concept of AI-assiste
 - Artificial Intelligence
 - Machine Learning Concepts
 - Explainable AI (XAI)
-- Google Gemini API
 
 ### Data Visualization
 
